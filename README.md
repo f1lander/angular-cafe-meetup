@@ -1,4 +1,8 @@
-## Meetup - Free Responsive Bootstrap Template
+## Angular Café Meetup
+
+Angular Café es para renunirnos a tomar café y hablar un poco de Angular.
+
+### Credits
 Meetup is a free one-page responsive template built with bootstrap.
 
 ### Article Page
