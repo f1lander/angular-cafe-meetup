@@ -183,6 +183,19 @@ a span.ti-twitter-alt {
 	color: #4099ff;
 }
 
+.sponsor-img-ct{
+    margin:auto;
+}
+.sponsor-img{
+    transform: scale(0.5, 0.5);
+    -ms-transform: scale(0.5, 0.5);
+    -webkit-transform: scale(0.5, 0.5);
+}
+.sponsor-img-4{
+    transform: scale(0.4, 0.4);
+    -ms-transform: scale(0.4, 0.4);
+    -webkit-transform: scale(0.4, 0.4);
+}
 .tickets {
 	background-color: #fcd93b;
 }
